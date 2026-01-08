@@ -21,7 +21,7 @@ Lilly V2.5 represents a significant leap from previous iterations, focusing on r
 * **Language:** Python 3.10+
 * **Core AI:** Custom LLM With Open-Source LLM Fallback
 * **Voice:** W.I.P
-* **Integration:** Discord currently
+* **Integration:** Discord, Desktop.
 * **Avatar:** W.I.P
 
 ## 🧠 System Overview
