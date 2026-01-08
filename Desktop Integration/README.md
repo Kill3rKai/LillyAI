@@ -1,5 +1,5 @@
 # Desktop Integration Update
-**Objective:** Enable seamless switching between Discord bot mode and a fully independent desktop application mode, allowing the AI to run directly on the user's computer with local text-to-speech capabilities for a more private and responsive experience.
+**Objective:** Enable seamless switching between Discord bot mode and a fully independent desktop application mode, allowing the AI to run directly on the my computer.
 ---
 ## New Features (v2.5.13)
 ### Desktop Mode Integration
