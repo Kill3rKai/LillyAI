@@ -45,7 +45,7 @@ This update introduces a dual-memory system that allows the AI to:
 
 ---
 
-# Patch Notes
+## Patch Notes
 
 ### v2.5.2.2 - Conversation Topic Memory
 
