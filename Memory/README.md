@@ -33,7 +33,7 @@ This update introduces a dual-memory system that allows the AI to:
 
 ## Patch Notes
 
-### v2.5.2 — Memory System
+### v2.5.2.1 — Memory System
 
 #### Features
 - **Long-Term Memory:** JSON-based persistent storage of facts, friends, and metadata
@@ -42,3 +42,14 @@ This update introduces a dual-memory system that allows the AI to:
 - Adds foundation for future enhancements such as adaptive behavior and personalized interactions
 
 **This update significantly improves conversation continuity, personalization, and user experience.**
+
+# patch Notes
+
+### v2.5.2.2 - Conversation Topic Memory
+
+#### Features
+- **Persistent Topic Tracking:** Stores the current main conversation topic per user with timestamp
+- **Easy Access & Management:** Functions to set, retrieve, and clear the active topic
+- **Session-spanning Context:** Topic persists across messages, mode switches, and application restarts
+- Provides foundation for more coherent, context-aware replies (e.g. "Continuing our discussion about your [x,y,z]...")
+**This update adds lightweight but powerful short-term conversational continuity, helping Lilly stay on-topic and feel more connected to ongoing discussions.**
