@@ -43,7 +43,7 @@ This update introduces a dual-memory system that allows the AI to:
 
 **This update significantly improves conversation continuity, personalization, and user experience.**
 
-# patch Notes
+# Patch Notes
 
 ### v2.5.2.2 - Conversation Topic Memory
 
