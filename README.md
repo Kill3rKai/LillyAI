@@ -2,7 +2,7 @@
 
 **Note: This repository does not contain source code. Lilly AI is not open-source.**
 
-*This repository documents features and development progress. Implementation details are proprietary.*
+***This repository documents features and development progress. Implementation details are proprietary.***
 
 [![Project Status: Active](https://img.shields.io/badge/Project%20Status-Active-brightgreen)](https://github.com/your-username/your-repo)
 [![Version](https://img.shields.io/badge/Version-2.5-blue)](https://github.com/your-username/your-repo)
