@@ -2,6 +2,7 @@
 
 [![Project Status: Active](https://img.shields.io/badge/Project%20Status-Active-brightgreen)](https://github.com/your-username/your-repo)
 [![Version](https://img.shields.io/badge/Version-2.5-blue)](https://github.com/your-username/your-repo)
+
 **Note: This repository does not contain source code. Lilly AI is not open-source.**
 
 Lilly AI **(Lilly AI Self Named)** is a state-of-the-art virtual gamer developed for the **VSM** group by member Kill3rKai. Lilly V2.5 is designed to function as an autonomous AI VTuber capable of real-time audience interaction, personality-driven gaming, content.
