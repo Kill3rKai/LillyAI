@@ -8,24 +8,24 @@
 ***This repository documents features and development progress. Implementation details are proprietary.***
 
 ---
-Lilly AI **(Lilly AI Self Named)** is a state-of-the-art virtual gamer developed for the **VSM** group by member Kill3rKai. Lilly V2.5 is designed to function as an autonomous AI VTuber capable of real-time audience interaction, personality-driven gaming, content.
+Lilly AI **(Lilly AI Self Named)** is a state-of-the-art AI developed by member Kill3rKai. Lilly V2.5 is designed to function as an autonomous AI capable of real-time interaction, personality-driven gaming, and much more functions I could be go off on.
 
 ## 🌟 Overview
-Lilly V2.5 represents a significant leap from previous iterations, focusing on reduced latency, more natural speech patterns, and a complex, stronger, filter system. Unlike standard chatbots, Lilly is optimized for the high-energy environment of gaming.
+Lilly V2.5 represents a significant leap from previous iterations, focusing on reduced latency, more natural speech patterns, and a complex, stronger, filter system. Unlike standard chatbots, Lilly is optimized for the high-energy environment of our friend group.
 
 ## 🚀 Key Features
-- **Personality Engine:** A custom Large Language Model (LLM) fine-tuned for the unique "Lilly" persona—balancing wit, curiosity, and VSM group inside jokes.
-- **Dynamic Content Filter:** A multi-layered safety system that blocks prohibited content while generating character-appropriate "annoyed" or "sassy" responses when boundaries are hit.
+- **Personality Engine:** A custom Large Language Model (LLM) fine-tuned for the unique "Lilly" persona—balancing wit, curiosity, and group inside jokes.
+- **Dynamic Content Filter:** A multi-layered safety system that blocks prohibited content while generating character-appropriate "annoyed" responses when boundaries are hit. *she did this herself*
 - **Low-Latency TTS:** High-fidelity voice synthesis designed for real-time conversation.
 - **Vision & Perception:** Ability to perceive stream events and react to visual stimuli, In order to play games and interact.
-- **Avatar:** To Humanize It.
+- **Avatar:** To give it a face.
 - **Browser:** It can Google search if it is unsure or told to (For Image/Video Search etc)
 - **Discord:** It can, Chat, DM, Talk in Voice Calls
 
 ## 🛠 Tech Stack
 * **Language:** Python 3.10+
-* **Core AI:** Multi-layered safety system
-* **Voice:** W.I.P
+* **Core AI:** Customized LLM with fallback
+* **Voice:** Neural TTS backend → *migrating to custom voice*
 * **Integration:** Discord, Desktop.
 * **Avatar:** W.I.P
 
@@ -44,3 +44,5 @@ Personality and behavior are governed by a configurable persona layer, allowing 
 External communication layers allow the intelligence core to be accessed through multiple interfaces, such as terminal-based interaction or real-time messaging platforms, without coupling those interfaces to the internal logic.
 
 Finally, shared utilities and configuration assets support the system by providing reusable helper logic, static data, and environment definitions required for stable operation.
+
+***Notice: This describes roles, not mechanics. Meaning it cannot be reverse engineered identical. There is nothing here that enables replication or exploitation***
