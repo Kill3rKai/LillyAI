@@ -45,4 +45,4 @@ External communication layers allow the intelligence core to be accessed through
 
 Finally, shared utilities and configuration assets support the system by providing reusable helper logic, static data, and environment definitions required for stable operation.
 
-***Notice: This describes roles, not mechanics. Meaning it cannot be reverse engineered identical. There is nothing here that enables replication or exploitation***
+***Notice: This describes roles, not mechanics. Meaning it cannot be reverse engineered identically. There is nothing here that enables replication or exploitation***
