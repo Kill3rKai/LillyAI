@@ -1,5 +1,5 @@
 # Display View Update
-**Objective:** Give Lilly the ability to "see" my screen in desktop mode, enabling her to describe what’s currently visible — turning voice commands like "what do you see?" into real-time screen awareness.
+**Objective:** Give Lilly the ability to "see" my screen in desktop mode, enabling her to describe what’s currently visible
 ---
 ## New Features (v2.5.15)
 ### Screen Vision (Desktop Mode Only)
