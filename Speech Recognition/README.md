@@ -20,3 +20,6 @@ This patch adds voice input. Lilly now listens continuously, wakes up when you s
 ---
 ## Summary
 **Desktop and Discord mode now has voice inputs and Response Intelligence and Memory For This**
+---
+## Later Patch
+- Accuracy tweak
