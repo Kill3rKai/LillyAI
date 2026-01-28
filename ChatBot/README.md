@@ -29,14 +29,14 @@ This update introduces the core AI system:
 ### v2.5.0 — Chatbot Core
 
 #### Features
-- Custom LLM with open-source fine-tuning
+- Custom LLM with fine-tuning
 - Initial conversational capabilities and response generation
 - Structured framework for integrating future improvements (memory, filter, response intelligence)
 
 **This update establishes the foundation for all subsequent AI enhancements, enabling smarter, more personalized interactions.**
 
 ## Patch Notes
-### v2.5.0 — ChatBot
+### v2.5.0 — ChatBot Independance Patch
 #### Features
 - Lilly now responds much more independently and naturally across text channels, voice, and DMs
 - Removed most hard-coded debug lines and forced replies in favor of organic behavior
