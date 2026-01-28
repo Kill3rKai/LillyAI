@@ -37,7 +37,7 @@ This update introduces the core AI system:
 
 ## Patch Notes
 ### v2.5.0 — ChatBot
-### Features
+#### Features
 - Lilly now responds much more independently and naturally across text channels, voice, and DMs
 - Removed most hard-coded debug lines and forced replies in favor of organic behavior
 
