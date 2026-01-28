@@ -34,3 +34,11 @@ This update introduces the core AI system:
 - Structured framework for integrating future improvements (memory, filter, response intelligence)
 
 **This update establishes the foundation for all subsequent AI enhancements, enabling smarter, more personalized interactions.**
+
+## Patch Notes
+### v2.5.0 — ChatBot
+### Features
+- Lilly now responds much more independently and naturally across text channels, voice, and DMs
+- Removed most hard-coded debug lines and forced replies in favor of organic behavior
+
+**This patch makes LillyAI feel alive — Making her reply independent of me and my hard coded debug lines**
