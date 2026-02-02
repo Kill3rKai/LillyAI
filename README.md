@@ -18,7 +18,7 @@ Lilly V2.5 represents a significant leap from previous iterations, focusing on r
 - **Dynamic Content Filter:** A multi-layered safety system that blocks prohibited content while generating character-appropriate "annoyed" responses when boundaries are hit. *she did this herself*
 - **Low-Latency TTS:** High-fidelity voice synthesis designed for real-time conversation.
 - **Vision & Perception:** Ability to perceive stream events and react to visual stimuli, In order to play games and interact.
-- **Avatar:** To give it a face.
+- **Avatar:** To give it a face. Helps me see what emotion she's currently experiencing too by animations
 - **Browser:** It can Google search if it is unsure or told to (For Image/Video Search etc)
 - **Discord:** It can, Chat, DM, Talk in Voice Calls
 
