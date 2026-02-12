@@ -24,7 +24,7 @@ Lilly V2.5 represents a significant leap from previous iterations, focusing on r
 
 ## 🛠 Tech Stack
 * **Language:** Python 3.10+
-* **Core AI:** Customized with fallback system
+* **Core AI:** Customized LLM
 * **Voice:** Custom Voice With Neutral Fallback
 * **Integration:** Discord, Desktop.
 * **Avatar:** W.I.P
