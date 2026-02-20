@@ -1,5 +1,6 @@
 # Game Integration Update [Part 1 of 𝑥]
 **Objective:** Allow LillyAI to view a screen and play games
+
 ---
 
 ## New Features (v2.5.17)
