@@ -12,11 +12,15 @@
 - Built a system that allows LillyAI to reflect and see the outcome of the action made.
 ### Game Runner (v2.5.17)
 - Built a runner to initiate the system allowing for game play
+
 ---
+
 ## Version 2.5 Update — 2.5.17
 ### Added: Game Integration [Part 1 of 𝑥]
 This update allows LillyAI to perceive and understand that she is playing or viewing gameplay and understand events or actions in that game.
 This update also allows Lilly to decide and make an action in that game if available
+
 ---
+
 ## Summary
 **Added Small Section Game Integration Into LillyAI. Allowing For Gameplay If Available**
