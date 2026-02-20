@@ -1,6 +1,7 @@
 # Game Integration Update [Part 1 of 𝑥]
 **Objective:** Allow LillyAI to view a screen and play games
 ---
+
 ## New Features (v2.5.17)
 ### Game Context Awareness
 - Built a system that allows LillyAI to perceive that she is playing a game.
