@@ -26,8 +26,8 @@ Lilly V2.5 represents a significant leap from previous iterations, focusing on r
 * **Language:** Python 3.10+
 * **Core AI:** Customized LLM
 * **Voice:** Custom Voice With Neutral Fallback
-* **Integration:** Discord, Desktop.
-* **Avatar:** W.I.P
+* **Integration:** Discord, Desktop, Game.
+* **Avatar:** W.I.P *I need this as I gave she has a "mood management" sort of thing, so it helps me see her emotion*
 
 ## 🧠 System Overview
 
