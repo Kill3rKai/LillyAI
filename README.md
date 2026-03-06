@@ -11,20 +11,20 @@
 Lilly AI **(Lilly AI Self Named)** is a state-of-the-art AI developed by member Kill3rKai. Lilly V2.5 is designed to function as an autonomous AI capable of real-time interaction, personality-driven gaming, and much more functions I could be go off on.
 
 ## 🌟 Overview
-Lilly V2.5 represents a significant leap from previous iterations, focusing on reduced latency, more natural speech patterns, and a complex, stronger, filter system. Unlike standard chatbots, Lilly is optimized for the high-energy environment of our friend group.
+Lilly V2.5 represents a significant leap from previous iterations, focusing on reduced latency, more natural speech patterns, and a complex, stronger, filter system. Unlike standard chatbots, Lilly is optimized for the high-energy environment of my friend group.
 
 ## 🚀 Key Features
 - **Personality Engine:** A custom Large Language Model (LLM) fine-tuned for the unique "Lilly" persona—balancing wit, curiosity, and group inside jokes.
 - **Dynamic Content Filter:** A multi-layered safety system that blocks prohibited content while generating character-appropriate "annoyed" responses when boundaries are hit. *she did this herself*
 - **Low-Latency TTS:** High-fidelity voice synthesis designed for real-time conversation.
 - **Vision & Perception:** Ability to perceive stream events and react to visual stimuli, In order to play games and interact.
-- **Avatar:** To give it a face. Helps me see what emotion she's currently experiencing too by animations
+- **Avatar:** To give it a face. Helps me see what emotion she's currently experiencing by animations
 - **Browser:** It can Google search if it is unsure or told to (For Image/Video Search etc)
 - **Discord:** It can, Chat, DM, Talk in Voice Calls
 
 ## 🛠 Tech Stack
 * **Language:** Python 3.10+
-* **Core AI:** Customized LLM
+* **Core AI:** Custom LLM
 * **Voice:** Custom Voice With Neutral Fallback
 * **Integration:** Discord, Desktop, Game.
 * **Avatar:** W.I.P *I need this as she has "mood" programming, so it helps me see her 'emotion'*
