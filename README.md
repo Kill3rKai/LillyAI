@@ -1,4 +1,4 @@
-# Lilly AI | Project V2.5 Development Information Document Showing **Major** Updates And Patch Notes
+# Lilly AI | Project V3 Development Information Document Showing **Major** Updates And Patch Notes
 
 [![Project Status: Active](https://img.shields.io/badge/Project%20Status-Active-brightgreen)](https://github.com/your-username/your-repo)
 [![Version](https://img.shields.io/badge/Version-2.5-blue)](https://github.com/your-username/your-repo)
@@ -8,10 +8,10 @@
 ***This repository documents features and development progress. Implementation details are proprietary.***
 
 ---
-Lilly AI **(Lilly AI Self Named)** is a state-of-the-art AI developed by member Kill3rKai. Lilly V2.5 is designed to function as an autonomous AI capable of real-time interaction, personality-driven gaming, and much more functions I could be go off on.
+Lilly AI **(Lilly AI Self Named)** is a state-of-the-art AI developed by member Kill3rKai. Lilly V3 is designed to function as an autonomous AI capable of real-time interaction, personality-driven gaming, and much more functions I could be go off on.
 
 ## 🌟 Overview
-Lilly V2.5 represents a significant leap from previous iterations, focusing on reduced latency, more natural speech patterns, and a complex, stronger, filter system. Unlike standard chatbots, Lilly is optimized for the high-energy environment of my friend group.
+Lilly V3 represents a significant leap from previous iterations, focusing on reduced latency, more natural speech patterns, and a complex, stronger, filter system. Unlike standard chatbots, Lilly is optimized for the high-energy environment of my friend group.
 
 ## 🚀 Key Features
 - **Personality Engine:** A custom Large Language Model (LLM) fine-tuned for the unique "Lilly" persona—balancing wit, curiosity, and group inside jokes.
