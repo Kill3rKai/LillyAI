@@ -1,7 +1,7 @@
 # Lilly AI | Project V3 Development Information Document Showing **Major** Updates And Patch Notes
 
 [![Project Status: Active](https://img.shields.io/badge/Project%20Status-Active-brightgreen)](https://github.com/your-username/your-repo)
-[![Version](https://img.shields.io/badge/Version-2.5-blue)](https://github.com/your-username/your-repo)
+[![Version](https://img.shields.io/badge/Version-3.0-blue)](https://github.com/your-username/your-repo)
 
 ***Note: This repository does not contain source code. Lilly AI is not open-source or for public use.***
 
